@@ -27,3 +27,6 @@ Tenho experiência na transformação de necessidades de negócio em soluções 
 
 LinkedIn:
 [www.linkedin.com/in/fernando-oliveira-10a0b470](http://www.linkedin.com/in/fernando-oliveira-10a0b470)
+
+Site Pessoal:
+[www.fernandooliveira.dev.br](https://www.fernandooliveira.dev.br)
